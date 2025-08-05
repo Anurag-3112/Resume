@@ -19,7 +19,7 @@ Passionate about building full-stack apps with modern technologies and clean cod
 
 
 
-##  Connect With Me
+##  Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar-1292b3289/-link)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://your-portfolio.com)
