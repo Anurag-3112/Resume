@@ -1,6 +1,6 @@
 ![Updated](https://img.shields.io/badge/last%20updated-July%202025-blue)
 <H2>This is Anurag Kumar</H2>
-<H3>A passionate MERN Stack Developer </H3>
+<H3>A passionate Full Stack Developer </H3>
 
 Passionate about building full-stack apps with modern technologies and clean code.
 
